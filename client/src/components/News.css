@@ -1,0 +1,14 @@
+.news-container {
+    width: 100%;
+}
+
+.article-row {
+    width: 75%;
+    padding-left:40px;
+    margin:0;
+    position: relative;
+}
+
+.news-item-box {
+    width:100%;
+}

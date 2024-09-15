@@ -1,0 +1,32 @@
+.navbar form{
+    flex-grow: 1;
+    padding: 0px 12px;
+    position: relative;
+}
+.navbar form input{
+    min-width: 90%;
+    margin: 0;
+    padding: 8px 10px 8px 32px;
+    font-size: 13px;
+    border: solid 1px #0000003e;
+    border-radius: 3px;
+}
+.navbar form .search-icon{
+    position: absolute;
+    left: 25px;
+    top: 8px;
+
+}
+.nav-links{
+    padding: 7px 13px;
+    border: solid 1px #3b3b3b;
+    border-radius: 3px;
+    background-color: #3b3b3b;
+    cursor:pointer;
+    color: white;
+    text-decoration: none;
+}
+.nav-links:hover{
+    background-color: #d3e4eb;
+    color: #3b3b3b;
+}
